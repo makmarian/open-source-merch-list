@@ -45,6 +45,10 @@ https://www.freewear.org/Archlinux
 
 https://www.hellotux.com/arch
 
+### NixOS
+
+https://www.redbubble.com/people/mogorman/shop
+
 ## Projects - misc
 
 ### Matrix
@@ -58,3 +62,7 @@ https://store.blender.org/
 ### linuxfoundation
 
 https://linuxfoundation.store/
+
+### TOR
+
+https://donate.torproject.org/
