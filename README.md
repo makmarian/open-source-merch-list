@@ -17,8 +17,6 @@ https://www.hellotux.com/
 
 https://www.freewear.org/
 
-https://www.stickermule.com/unixstickers
-
 ## Projects - Linux distros
 
 ### PostmarketOS
