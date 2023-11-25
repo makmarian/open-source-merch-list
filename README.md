@@ -1,13 +1,11 @@
 # open-source-merch-list
 This repo is meant to make it easier to find merchendise for open source projects and organizations that promote open source software
 
-This is a continuously updated list, and perhaps in the future create a dedicated website for this. 
+This list is continuously updated 
 
-NOTE 1: I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites
+NOTE 1: I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it
 
-NOTE 2: Please contact me if you see anything wrong with the links, or if I should add more entries
-
-NOTE 3: These links are not in any order yet
+NOTE 2: I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites
 
 --------------------
 
@@ -49,6 +47,12 @@ https://www.hellotux.com/arch
 
 https://www.redbubble.com/people/mogorman/shop
 
+## Projects - Other operating systems
+
+### Haiku
+
+https://www.freewear.org/Haiku
+
 ## Projects - misc
 
 ### Matrix
@@ -66,3 +70,8 @@ https://linuxfoundation.store/
 ### TOR
 
 https://donate.torproject.org/
+
+### Mastodon
+
+https://freshstore.co/collections/mastodon
+
