@@ -1,5 +1,5 @@
 # open-source-merch-list
-This repo is meant to make it easier to find merchendise for open source projects and organizations that promote open source software
+This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software
 
 This list is continuously updated 
 
@@ -16,6 +16,18 @@ https://www.hellotux.com/
 https://www.freewear.org/
 
 ## Projects - Linux distros
+
+### Elementary OS
+
+https://store.elementary.io/
+
+### AlmaLinux
+
+https://shop.almalinux.org/
+
+### Xubuntu
+
+https://xubuntu.org/products/
 
 ### PostmarketOS
 
@@ -46,6 +58,18 @@ https://www.hellotux.com/arch
 ### NixOS
 
 https://www.redbubble.com/people/mogorman/shop
+
+## Projects - BSD
+
+### OpenBSD
+
+https://openbsd.creator-spring.com/
+
+### GhostBSD
+
+https://www.redbubble.com/people/ericbsd/shop?artistUserName=ericbsd&asc=u&collections=1790222&iaCode=all-departments&sortOrder=relevant
+
+https://www.zazzle.com/store/ghostbsd_store
 
 ## Projects - Other operating systems
 
