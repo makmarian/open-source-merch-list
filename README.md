@@ -1,4 +1,4 @@
-# open-source-merch-list
+# Open Source Merch List
 This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software
 
 This list is continuously updated 
@@ -16,6 +16,22 @@ https://www.hellotux.com/
 https://www.freewear.org/
 
 ## Projects - Linux distros
+
+### OpenSUSE
+
+https://shop.opensuse.org/
+
+### Manjaro
+
+https://manjaro.org/merchandise/
+
+### Linux Lite
+
+https://www.linuxliteos.com/shop.html
+
+### Debian
+
+https://www.debian.org/events/merchandise.en.html
 
 ### Elementary OS
 
@@ -71,6 +87,10 @@ https://www.redbubble.com/people/ericbsd/shop?artistUserName=ericbsd&asc=u&colle
 
 https://www.zazzle.com/store/ghostbsd_store
 
+### NetBSD
+
+https://www.netbsd.org/gallery/devotionalia.html
+
 ## Projects - Other operating systems
 
 ### Haiku
@@ -98,4 +118,24 @@ https://donate.torproject.org/
 ### Mastodon
 
 https://freshstore.co/collections/mastodon
+
+### LibreOffice
+
+https://www.libreoffice.org/about-us/merchandise/
+
+### Kodi
+
+https://kodi.tv/store/
+
+### WordPress
+
+https://mercantile.wordpress.org/
+
+### OnlyOffice
+
+https://onlyoffice.myspreadshop.com/
+
+### Krita
+
+https://krita.org/en/shop/
 
