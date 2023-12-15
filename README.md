@@ -165,3 +165,11 @@ https://shop.fsf.org/
 
 https://fsfe.org/order/index.en.html
 
+**KDE**
+
+https://kde.org/stuff/metastore/
+
+**GNOME**
+
+https://shop.gnome.org/
+
