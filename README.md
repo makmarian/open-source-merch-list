@@ -147,6 +147,10 @@ https://krita.org/en/shop/
 
 https://store.brave.com/
 
+**Signal**
+
+https://shop.signal.org/
+
 ## Organizations, groups and foundations
 
 **linuxfoundation**
