@@ -53,6 +53,10 @@ https://postmarketos.org/merch/
 
 https://fedoraproject.org/wiki/Store
 
+**Nobara**
+
+https://nobara-project-merch-store.printify.me/products
+
 **Gentoo**
 
 https://www.gentoo.org/inside-gentoo/stores/
