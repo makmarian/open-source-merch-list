@@ -161,6 +161,10 @@ https://mercantile.wordpress.org/
 
 https://shop.nitrokey.com/shop
 
+**ThinkPenguin**
+
+https://www.thinkpenguin.com/
+
 ## Organizations, groups and foundations
 
 **FSF**
