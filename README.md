@@ -1,3 +1,14 @@
+# Open Source Merch List
+This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software
+
+This list is continuously updated 
+
+**NOTE 1:** I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it
+
+**NOTE 2:** I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites
+
+--------------------
+
 ## Websites that support multiple projects
 
 https://www.freewear.org/
