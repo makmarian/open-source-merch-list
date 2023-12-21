@@ -1,33 +1,20 @@
-# Open Source Merch List
-This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software
-
-This list is continuously updated 
-
-**NOTE 1:** I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it
-
-**NOTE 2:** I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites
-
---------------------
-
-## Websites that supports multiple projects
-
-https://www.hellotux.com/
+## Websites that support multiple projects
 
 https://www.freewear.org/
 
+https://www.hellotux.com/
+
 ## Linux distros
 
-**OpenSUSE**
+**AlmaLinux**
 
-https://shop.opensuse.org/
+https://shop.almalinux.org/
 
-**Manjaro**
+**Arch Linux**
 
-https://manjaro.org/merchandise/
+https://www.freewear.org/Archlinux
 
-**Linux Lite**
-
-https://www.linuxliteos.com/shop.html
+https://www.hellotux.com/arch
 
 **Debian**
 
@@ -37,53 +24,51 @@ https://www.debian.org/events/merchandise.en.html
 
 https://store.elementary.io/
 
-**AlmaLinux**
-
-https://shop.almalinux.org/
-
-**Xubuntu**
-
-https://xubuntu.org/products/
-
-**PostmarketOS**
-
-https://postmarketos.org/merch/
-
 **Fedora**
 
 https://fedoraproject.org/wiki/Store
-
-**Nobara**
-
-https://nobara-project-merch-store.printify.me/products
 
 **Gentoo**
 
 https://www.gentoo.org/inside-gentoo/stores/
 
-**Rocky Linux**
+**Linux Lite**
 
-https://rockylinux.org/merch/
+https://www.linuxliteos.com/shop.html
 
 **Linux Mint**
 
 https://linuxmint.com/store_tshirts.php
 
-**Arch Linux**
+**Manjaro**
 
-https://www.freewear.org/Archlinux
-
-https://www.hellotux.com/arch
+https://manjaro.org/merchandise/
 
 **NixOS**
 
 https://www.redbubble.com/people/mogorman/shop
 
+**Nobara**
+
+https://nobara-project-merch-store.printify.me/products
+
+**OpenSUSE**
+
+https://shop.opensuse.org/
+
+**PostmarketOS**
+
+https://postmarketos.org/merch/
+
+**Rocky Linux**
+
+https://rockylinux.org/merch/
+
+**Xubuntu**
+
+https://xubuntu.org/products/
+
 ## BSD flavors
-
-**OpenBSD**
-
-https://openbsd.creator-spring.com/
 
 **GhostBSD**
 
@@ -95,7 +80,15 @@ https://www.zazzle.com/store/ghostbsd_store
 
 https://www.netbsd.org/gallery/devotionalia.html
 
+**OpenBSD**
+
+https://openbsd.creator-spring.com/
+
 ## Other operating systems
+
+**FreeDOS**
+
+https://www.zazzle.com/store/freedos
 
 **Haiku**
 
@@ -105,65 +98,59 @@ https://www.freewear.org/Haiku
 
 https://redox-os.creator-spring.com/
 
-**FreeDOS**
-
-https://www.zazzle.com/store/freedos
-
 ## Software
-
-**Matrix**
-
-https://shop.matrix.org/
 
 **Blender**
 
 https://store.blender.org/
 
-**TOR**
+**Brave**
 
-https://donate.torproject.org/
-
-**Mastodon**
-
-https://freshstore.co/collections/mastodon
-
-**LibreOffice**
-
-https://www.libreoffice.org/about-us/merchandise/
-
-**OnlyOffice**
-
-https://onlyoffice.myspreadshop.com/
+https://store.brave.com/
 
 **Kodi**
 
 https://kodi.tv/store/
 
-**WordPress**
-
-https://mercantile.wordpress.org/
-
 **Krita**
 
 https://krita.org/en/shop/
 
-**Brave**
+**LibreOffice**
 
-https://store.brave.com/
+https://www.libreoffice.org/about-us/merchandise/
+
+**Mastodon**
+
+https://freshstore.co/collections/mastodon
+
+**Matrix**
+
+https://shop.matrix.org/
+
+**OnlyOffice**
+
+https://onlyoffice.myspreadshop.com/
 
 **Signal**
 
 https://shop.signal.org/
 
+**TOR**
+
+https://donate.torproject.org/
+
+**WordPress**
+
+https://mercantile.wordpress.org/
+
+## Hardware
+
+**NitroKey**
+
+https://shop.nitrokey.com/shop
+
 ## Organizations, groups and foundations
-
-**linuxfoundation**
-
-https://linuxfoundation.store/
-
-**Ubports**
-
-https://ubports.com/en/shop
 
 **FSF**
 
@@ -173,11 +160,18 @@ https://shop.fsf.org/
 
 https://fsfe.org/order/index.en.html
 
-**KDE**
-
-https://kde.org/stuff/metastore/
-
 **GNOME**
 
 https://shop.gnome.org/
 
+**KDE**
+
+https://kde.org/stuff/metastore/
+
+**Linux Foundation**
+
+https://linuxfoundation.store/
+
+**Ubports**
+
+https://ubports.com/en/shop
