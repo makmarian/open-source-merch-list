@@ -139,6 +139,10 @@ https://freshstore.co/collections/mastodon
 
 https://shop.matrix.org/
 
+**MonkeyType**
+
+https://www.monkeytype.store/
+
 **OnlyOffice**
 
 https://onlyoffice.myspreadshop.com/
