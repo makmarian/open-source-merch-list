@@ -175,7 +175,7 @@ https://shop.nitrokey.com/shop
 
 **Pine64**
 
-https://pine64.com/
+https://pine64.com/shop/
 
 **ThinkPenguin**
 
