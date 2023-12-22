@@ -131,6 +131,10 @@ https://krita.org/en/shop/
 
 https://www.libreoffice.org/about-us/merchandise/
 
+**Linode**
+
+https://www.linodestore.com/products
+
 **Mastodon**
 
 https://freshstore.co/collections/mastodon
@@ -168,6 +172,10 @@ https://mercantile.wordpress.org/
 **NitroKey**
 
 https://shop.nitrokey.com/shop
+
+**Pine64**
+
+https://pine64.com/
 
 **ThinkPenguin**
 
