@@ -119,6 +119,10 @@ https://store.blender.org/
 
 https://store.brave.com/
 
+**Jenkins**
+
+https://www.jenkins.io/merchandise/
+
 **Kodi**
 
 https://kodi.tv/store/
