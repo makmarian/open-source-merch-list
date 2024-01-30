@@ -151,6 +151,10 @@ https://www.monkeytype.store/
 
 https://onlyoffice.myspreadshop.com/
 
+**Proton**
+
+https://shop.proton.me/
+
 **Signal**
 
 https://shop.signal.org/
