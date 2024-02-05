@@ -151,6 +151,10 @@ https://shop.matrix.org/
 
 https://www.monkeytype.store/
 
+**Neovim**
+
+https://store.neovim.io/
+
 **OnlyOffice**
 
 https://onlyoffice.myspreadshop.com/
@@ -206,6 +210,10 @@ https://shop.gnome.org/
 **KDE**
 
 https://kde.org/stuff/metastore/
+
+**Linux Cast**
+
+https://the-linux-cast-shop.fourthwall.com/
 
 **Linux Foundation**
 
