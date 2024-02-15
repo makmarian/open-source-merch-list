@@ -185,6 +185,10 @@ https://mercantile.wordpress.org/
 
 https://shop.nitrokey.com/shop
 
+**OPNsense**
+
+https://shop.opnsense.com/
+
 **Pine64**
 
 https://pine64.com/shop/
