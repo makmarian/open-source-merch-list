@@ -1,11 +1,13 @@
 # Open Source Merch List
-This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software
+This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software.
 
-This list is continuously updated 
+This list is continuously updated.
 
-**NOTE 1:** I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it
+If there is a project or an organizations you think should not be on this list please do a pull request or send me a message.
 
-**NOTE 2:** I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites
+**NOTE 1:** I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it.
+
+**NOTE 2:** I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites.
 
 --------------------
 
@@ -134,10 +136,6 @@ https://krita.org/en/shop/
 **LibreOffice**
 
 https://www.libreoffice.org/about-us/merchandise/
-
-**Linode**
-
-https://www.linodestore.com/products
 
 **Mastodon**
 
