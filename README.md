@@ -199,6 +199,10 @@ https://www.thinkpenguin.com/
 
 ## Organizations, groups and foundations
 
+**FreeBSD Foundation**
+
+https://freebsd-foundation.myshopify.com/
+
 **FSF**
 
 https://shop.fsf.org/
