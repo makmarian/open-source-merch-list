@@ -169,6 +169,8 @@ https://shop.signal.org/
 
 https://donate.torproject.org/
 
+https://community.torproject.org/relay/community-resources/swag/
+
 **TrueNAS**
 
 https://www.truenasmerch.com/
