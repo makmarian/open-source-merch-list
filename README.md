@@ -125,6 +125,10 @@ https://store.brave.com/
 
 https://www.jenkins.io/merchandise/
 
+**KiCad**
+
+https://shop.kicad.org/
+
 **Kodi**
 
 https://kodi.tv/store/
