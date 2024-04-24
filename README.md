@@ -121,6 +121,10 @@ https://store.blender.org/
 
 https://store.brave.com/
 
+**FlightGear**
+
+https://store.flightgear.org/
+
 **Jenkins**
 
 https://www.jenkins.io/merchandise/
