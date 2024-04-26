@@ -11,6 +11,17 @@ If there is a project or an organizations you think should not be on this list p
 
 --------------------
 
+### Table of contents
+- [Websites that support multiple projects](#websites-that-support-multiple-projects)
+- [Linux distros](#linux-distros)
+- [BSD flavors](#bsd-flavors)
+- [Other operating systems](#other-operating-systems)
+- [Software](#software)
+- [Hardware](#hardware)
+- [Organizations, groups and foundations](#organizations-groups-and-foundations)
+
+--------------------
+
 ## Websites that support multiple projects
 
 https://www.freewear.org/
