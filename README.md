@@ -1,11 +1,24 @@
 # Open Source Merch List
-This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software
+This repo is meant to make it easier to find merchandise for open source projects and organizations that promote open source software.
 
-This list is continuously updated 
+This list is continuously updated.
 
-**NOTE 1:** I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it
+If there is a project or an organizations you think should not be on this list please do a pull request or send me a message.
 
-**NOTE 2:** I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites
+**NOTE 1:** I've tried to make sure these are the correct and official merch shops, but please double check if you are unsure, and send me a message so I can correct it.
+
+**NOTE 2:** I have not bought from any of these places yet, so I can not say anything about the quality of any of these websites.
+
+--------------------
+
+### Table of contents
+- [Websites that support multiple projects](#websites-that-support-multiple-projects)
+- [Linux distros](#linux-distros)
+- [BSD flavors](#bsd-flavors)
+- [Other operating systems](#other-operating-systems)
+- [Software](#software)
+- [Hardware](#hardware)
+- [Organizations, groups and foundations](#organizations-groups-and-foundations)
 
 --------------------
 
@@ -119,9 +132,17 @@ https://store.blender.org/
 
 https://store.brave.com/
 
+**FlightGear**
+
+https://store.flightgear.org/
+
 **Jenkins**
 
 https://www.jenkins.io/merchandise/
+
+**KiCad**
+
+https://shop.kicad.org/
 
 **Kodi**
 
@@ -134,10 +155,6 @@ https://krita.org/en/shop/
 **LibreOffice**
 
 https://www.libreoffice.org/about-us/merchandise/
-
-**Linode**
-
-https://www.linodestore.com/products
 
 **Mastodon**
 
@@ -171,6 +188,8 @@ https://shop.signal.org/
 
 https://donate.torproject.org/
 
+https://community.torproject.org/relay/community-resources/swag/
+
 **TrueNAS**
 
 https://www.truenasmerch.com/
@@ -198,6 +217,16 @@ https://pine64.com/shop/
 https://www.thinkpenguin.com/
 
 ## Organizations, groups and foundations
+
+**FreeBSD Foundation**
+
+https://freebsd-foundation.myshopify.com/
+
+**FreeBSD Mall** 
+
+*Note: Based on these links, it seems like FreeBSD and FreeBSD Mall have a mutually beneficial relationship. (Learn more: [FreeBsd Mall - Community Involvement](https://www.freebsdmall.com/cgi-bin/fm/community.html), [FreeBSD Mall - History](https://www.freebsdmall.com/cgi-bin/fm/history.html), FreeBSD links to FreeBSD Mall: [one](https://www.freebsd.org/where/#distribution), [two](https://www.freebsd.org/commercial/consult/#TheFreeBSDMall))*
+
+https://www.freebsdmall.com
 
 **FSF**
 
