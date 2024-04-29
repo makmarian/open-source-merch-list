@@ -215,6 +215,10 @@ https://shop.gnome.org/
 
 https://kde.org/stuff/metastore/
 
+**Learn Linux TV**
+
+https://merch.learnlinux.tv/
+
 **Linux Cast**
 
 https://the-linux-cast-shop.fourthwall.com/
