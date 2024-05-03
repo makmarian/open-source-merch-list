@@ -136,6 +136,10 @@ https://store.brave.com/
 
 https://store.flightgear.org/
 
+**GitLab**
+
+https://shop.gitlab.com/apparel/
+
 **Jenkins**
 
 https://www.jenkins.io/merchandise/
