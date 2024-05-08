@@ -44,6 +44,10 @@ https://www.hellotux.com/arch
 
 https://www.debian.org/events/merchandise.en.html
 
+**Devuan**
+
+https://devuan.myspreadshop.net/
+
 **Elementary OS**
 
 https://store.elementary.io/
