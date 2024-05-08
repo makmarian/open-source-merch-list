@@ -19,6 +19,7 @@ If there is a project or an organizations you think should not be on this list p
 - [Software](#software)
 - [Hardware](#hardware)
 - [Organizations, groups and foundations](#organizations-groups-and-foundations)
+- [Other](#other)
 
 --------------------
 
@@ -252,14 +253,6 @@ https://shop.gnome.org/
 
 https://kde.org/stuff/metastore/
 
-**Learn Linux TV**
-
-https://merch.learnlinux.tv/
-
-**Linux Cast**
-
-https://the-linux-cast-shop.fourthwall.com/
-
 **Linux Foundation**
 
 https://linuxfoundation.store/
@@ -267,3 +260,15 @@ https://linuxfoundation.store/
 **Ubports**
 
 https://ubports.com/en/shop
+
+## Other
+
+### (Items that do not have their own category yet)
+
+**Learn Linux TV**
+
+https://merch.learnlinux.tv/
+
+**Linux Cast**
+
+https://the-linux-cast-shop.fourthwall.com/
