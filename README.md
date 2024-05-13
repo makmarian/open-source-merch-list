@@ -41,6 +41,10 @@ https://www.freewear.org/Archlinux
 
 https://www.hellotux.com/arch
 
+**Bodhi Linux**
+
+https://bodhilinux.myspreadshop.com/
+
 **Debian**
 
 https://www.debian.org/events/merchandise.en.html
