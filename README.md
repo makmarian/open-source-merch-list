@@ -109,6 +109,12 @@ https://www.redbubble.com/people/ericbsd/shop?artistUserName=ericbsd&asc=u&colle
 
 https://www.zazzle.com/store/ghostbsd_store
 
+**MidnightBSD**
+
+https://www.cafepress.com/midnightbsd/17167405
+
+https://www.teepublic.com/t-shirt/56701250-midnightbsd-os-logo
+
 **NetBSD**
 
 https://www.netbsd.org/gallery/devotionalia.html
