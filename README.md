@@ -97,6 +97,10 @@ https://postmarketos.org/merch/
 
 https://rockylinux.org/merch/
 
+**Ubuntu Studio**
+
+https://ubuntustudio.org/merchandise/
+
 **Xubuntu**
 
 https://xubuntu.org/products/
@@ -150,6 +154,10 @@ https://store.brave.com/
 **Docker**
 
 https://docker.postal.store/categories/all
+
+**Drupal**
+
+https://drupal.myspreadshop.com/
 
 **FlightGear**
 
