@@ -93,6 +93,10 @@ https://shop.opensuse.org/
 
 https://postmarketos.org/merch/
 
+**Qubes OS**
+
+https://www.qubes-os.org/donate/#is-qubes-merchandise-available
+
 **Rocky Linux**
 
 https://rockylinux.org/merch/
