@@ -141,7 +141,11 @@ https://www.zazzle.com/store/freedos
 
 https://www.freewear.org/Haiku
 
-**Redox OS**
+**ReactOS**
+
+https://reactos.myspreadshop.net/
+
+**Redox**
 
 https://redox-os.creator-spring.com/
 
