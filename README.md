@@ -85,6 +85,10 @@ https://www.redbubble.com/people/mogorman/shop
 
 https://nobara-project-merch-store.printify.me/products
 
+**OpenMandriva**
+
+https://www.hellotux.com/openmandriva
+
 **OpenSUSE**
 
 https://shop.opensuse.org/
