@@ -245,6 +245,10 @@ https://mercantile.wordpress.org/
 
 ## Hardware
 
+**Framework**
+
+https://frame.work/marketplace/merch
+
 **NitroKey**
 
 https://shop.nitrokey.com/shop
