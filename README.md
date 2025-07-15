@@ -125,7 +125,7 @@ https://www.zazzle.com/store/ghostbsd_store
 
 **MidnightBSD**
 
-https://www.cafepress.com/midnightbsd/17167405
+https://www.cafepress.com/shop/midnightbsd
 
 https://www.teepublic.com/t-shirt/56701250-midnightbsd-os-logo
 
