@@ -179,7 +179,7 @@ https://store.flightgear.org/
 
 **GitLab**
 
-https://shop.gitlab.com/apparel/
+https://shop.gitlab.com/
 
 **Jenkins**
 
@@ -203,7 +203,7 @@ https://www.libreoffice.org/about-us/merchandise/
 
 **Mastodon**
 
-https://freshstore.co/collections/mastodon
+https://shop.joinmastodon.org/
 
 **Matrix**
 
