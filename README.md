@@ -69,7 +69,7 @@ https://www.gentoo.org/inside-gentoo/stores/
 
 **Linux Lite**
 
-https://www.linuxliteos.com/shop.html
+https://linuxlite.creator-spring.com/
 
 **Linux Mint**
 
@@ -77,7 +77,9 @@ https://linuxmint.com/store_tshirts.php
 
 **Manjaro**
 
-https://manjaro.org/merchandise/
+https://old.manjaro.org/merchandise/
+
+*Note: I couldn’t find the merch on their new site — looks like it’s been moved to old.manjaro.org/merchandise*
 
 **NixOS**
 
@@ -300,15 +302,3 @@ https://linuxfoundation.store/
 **Ubports**
 
 https://ubports.com/en/shop
-
-## Other
-
-### (Items that do not have their own category yet)
-
-**Learn Linux TV**
-
-https://merch.learnlinux.tv/
-
-**Linux Cast**
-
-https://the-linux-cast-shop.fourthwall.com/
