@@ -167,17 +167,9 @@ https://store.blender.org/
 
 https://store.brave.com/
 
-**Docker**
-
-https://docker.postal.store/categories/all
-
 **Drupal**
 
 https://drupal.myspreadshop.com/
-
-**FlightGear**
-
-https://store.flightgear.org/
 
 **GitLab**
 
@@ -262,6 +254,8 @@ https://shop.opnsense.com/
 **Pine64**
 
 https://pine64.com/shop/
+
+https://pine64eu.com/
 
 **ThinkPenguin**
 
