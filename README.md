@@ -43,6 +43,12 @@ https://www.freewear.org/Archlinux
 
 https://www.hellotux.com/arch
 
+**Armbian**
+
+http://swag.armbian.com/ (EU)
+
+https://armbian.myspreadshop.com/ (US)
+
 **Bodhi Linux**
 
 https://bodhilinux.myspreadshop.com/
@@ -190,6 +196,10 @@ https://kodi.tv/store/
 **Krita**
 
 https://krita.org/en/shop/
+
+**Libera Chat**
+
+https://www.freewear.org/Libera.Chat
 
 **LibreOffice**
 
