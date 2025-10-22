@@ -53,6 +53,10 @@ https://armbian.myspreadshop.com/ (US)
 
 https://bodhilinux.myspreadshop.com/
 
+**Damn Small Linux**
+
+https://www.damnsmalllinux.org/shop.html
+
 **Debian**
 
 https://www.debian.org/events/merchandise.en.html
@@ -164,6 +168,10 @@ https://reactos.myspreadshop.net/
 https://redox-os.creator-spring.com/
 
 ## Software
+
+**Bitwarden**
+
+https://bitwarden.com/shop
 
 **Blender**
 
