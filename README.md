@@ -19,7 +19,6 @@ If there is a project or an organizations you think should not be on this list p
 - [Software](#software)
 - [Hardware](#hardware)
 - [Organizations, groups and foundations](#organizations-groups-and-foundations)
-- [Other](#other)
 
 --------------------
 
@@ -236,6 +235,10 @@ https://onlyoffice.myspreadshop.com/
 **Proton**
 
 https://shop.proton.me/
+
+**RetroArch**
+
+https://retroarch.creator-spring.com/
 
 **Signal**
 
