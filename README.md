@@ -278,9 +278,17 @@ https://pine64.com/shop/
 
 https://pine64eu.com/
 
+**System76 / Pop!_OS**
+
+https://system76.com/merch/
+
 **ThinkPenguin**
 
 https://www.thinkpenguin.com/
+
+**Tuxedo Computers**
+
+https://www.tuxedocomputers.com/en/Linux-Hardware/Zubehoer-USB-Co.tuxedo
 
 ## Organizations, groups and foundations
 
