@@ -192,6 +192,10 @@ https://store.brave.com/
 
 https://drupal.myspreadshop.com/
 
+**F-Droid**
+
+https://www.hellotux.com/f-droid
+
 **Firefox**
 
 https://shop.mozilla.com/collections/firefox
@@ -199,6 +203,10 @@ https://shop.mozilla.com/collections/firefox
 **GitLab**
 
 https://shop.gitlab.com/
+
+**Immich**
+
+https://immich.store
 
 **Jenkins**
 
