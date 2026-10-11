@@ -300,6 +300,10 @@ https://www.tuxedocomputers.com/en/Linux-Hardware/Zubehoer-USB-Co.tuxedo
 
 ## Organizations, groups and foundations
 
+**Apache Software Foundation**
+
+https://apache.org/foundation/buy_stuff
+
 **FreeBSD Foundation**
 
 https://freebsd-foundation.myshopify.com/
