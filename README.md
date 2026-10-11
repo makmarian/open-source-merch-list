@@ -192,6 +192,10 @@ https://store.brave.com/
 
 https://drupal.myspreadshop.com/
 
+**Firefox**
+
+https://shop.mozilla.com/collections/firefox
+
 **GitLab**
 
 https://shop.gitlab.com/
@@ -333,6 +337,10 @@ https://kde.org/stuff/metastore/
 **Linux Foundation**
 
 https://linuxfoundation.store/
+
+**Mozilla**
+
+https://shop.mozilla.com/collections/frontpage
 
 **Ubports**
 
